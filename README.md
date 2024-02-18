@@ -16,7 +16,7 @@ By : Xinjin(Synthia) Li
 
 Demo 视频：[solvegpt演示](https://www.bilibili.com/video/BV1yj411R7FR/?share_source=copy_web&vd_source=2402ea50d5e761d0c54f9f9cb8f35a85)
 
-网页版：[solvegpt网页](http://110.40.186.52:10001/solve)
+网页版：[solvegpt网页](https://solvegpt.cn/)
 
 安卓版: [solvegpt安卓](https://github.com/hongshen-zhang/AI-Math-Teacher/releases/tag/v0.0.1)
 
